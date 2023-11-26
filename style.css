@@ -1,0 +1,46 @@
+.weather {
+  position: fixed;
+  top: 10px;
+  left: 350px;
+}
+
+.today {
+  position: fixed;
+  top: 50px;
+  left: 350px;
+}
+
+.perth {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+}
+
+.temp {
+  position: fixed;
+  top: 50px;
+  left: 10px;
+}
+
+.type {
+  position: fixed;
+  top: 130px;
+  left: 10px;
+}
+
+.feel {
+  position: fixed;
+  top: 30px;
+  left: 180px;
+}
+
+.days {
+  position: relative;
+  top: 100px;
+  left: 10px;
+}
+
+.sun {
+  margin: block;
+  width: 10px;
+}
